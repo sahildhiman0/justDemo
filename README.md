@@ -1,2 +1,2 @@
 # justDemo
-this was created for testing hoe to create reprository. 
+this was created for testing how to create reprository. 
